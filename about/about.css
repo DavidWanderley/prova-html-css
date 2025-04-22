@@ -6,19 +6,8 @@
 
 body {
   font-family: 'Times New Roman', Times, serif;  
-  background: #f5f5dc;
-  background: -moz-linear-gradient(top, #f5f5dc 0%, #ffffff 100%);
-  background: -webkit-gradient(
-    left top,
-    left bottom,
-    color-stop(0%, #f5f5dc),
-    color-stop(100%, #ffffff)
-  );
-  background: -webkit-linear-gradient(top, #f5f5dc 0%, #ffffff 100%);
-  background: -o-linear-gradient(top, #f5f5dc 0%, #ffffff 100%);
-  background: -ms-linear-gradient(top, #f5f5dc 0%, #ffffff 100%);
-  background: linear-gradient(to bottom, #f5f5dc 0%, #ffffff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5dc', endColorstr='#ffffff', GradientType=0 );
+  background-color: #f5f5dc;
+
 }
 
 .img-about {

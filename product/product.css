@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+font-family: 'Times New Roman', Times, serif;  
+background-color: #f5f5dc7d;
+
+}
+.bg-beige {
+  background-color: #f5f5dc;
+}
